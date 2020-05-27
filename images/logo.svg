@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 26.7383 26.7383"
+   height="26.7383mm"
+   width="26.7383mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-36.331074,-116.42318)"
+     id="layer1">
+    <rect
+       y="116.42318"
+       x="36.331074"
+       height="26.7383"
+       width="26.7383"
+       id="rect859"
+       style="opacity:1;vector-effect:none;fill:#e81050;fill-opacity:1;stroke:none;stroke-width:0.22384171;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="text817"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#e81050;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       aria-label="H.">
+      <path
+         id="path909"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25.39999962px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';letter-spacing:-2.11666656px;fill:#fffafb;fill-opacity:1"
+         d="m 56.533633,138.75302 h -3.12539 v -8.02432 h -8.073926 v 8.02432 h -3.137793 v -18.05781 h 3.137793 v 7.51582 h 8.073926 v -7.51582 h 3.12539 z" />
+      <path
+         id="path911"
+         style="font-size:25.39999962px;letter-spacing:-2.11666656px;fill:#fffafb;fill-opacity:1;stroke-width:0.26458332"
+         d="m 58.08806,137.54999 q 0,-0.59531 0.347265,-0.99218 0.359668,-0.39688 1.066602,-0.39688 0.706934,0 1.066601,0.39688 0.372071,0.39687 0.372071,0.99218 0,0.57051 -0.372071,0.95498 -0.359667,0.38448 -1.066601,0.38448 -0.706934,0 -1.066602,-0.38448 -0.347265,-0.38447 -0.347265,-0.95498 z" />
+    </g>
+  </g>
+</svg>
